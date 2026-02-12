@@ -1,21 +1,41 @@
-## Hi there 👋
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# YEDELI HUATI
 
-<!--
-**Yedili/Yedili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat&logo=playwright&logoColor=white)
+
+---
+
+## Selected Projects
+
+### Smart Finance Assistant 2.0
+Full-stack finance management system  
+Flask API · React frontend · PostgreSQL · Telegram Bot  
+Architecture focused on modular services and clean API design.
+
+### Face Recognition System
+Real-time face detection & recognition pipeline  
+OpenCV · DeepFace · Video stream processing.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Yedili&show_icons=false&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yedili&layout=compact&hide_border=true)
+
+---
+
+## Contact
+
+Email: your.email@example.com  
+Telegram: @yourhandle  
+LinkedIn: linkedin.com/in/yourprofile
