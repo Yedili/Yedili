@@ -1,37 +1,42 @@
-# YEDELI HUATI
+<h1 align="left">Yedeli Huati</h1>
+
+<p align="left">
+
+</p>
 
 ---
 
-## Tech Stack
+## Stack
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat&logo=playwright&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" />
+</p>
 
 ---
 
-## Selected Projects
+## Selected Work
 
 ### Smart Finance Assistant 2.0
-Full-stack finance management system  
-Flask API · React frontend · PostgreSQL · Telegram Bot  
-Architecture focused on modular services and clean API design.
+Modular full-stack finance system.  
+Flask API · React · PostgreSQL · Telegram Bot  
+Focused on clean service boundaries and maintainable architecture.
 
 ---
 
-## GitHub Stats
+## Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yedili&show_icons=false&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yedili&layout=compact&hide_border=true)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Yedili&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+</p>
 
 ---
 
-## Contact
-
-Email: kuatedil1@gmail.com
-Telegram: @nastyuncle  
-LinkedIn: https://www.linkedin.com/in/edil-kuat-3b4417332/
+<p>
+kuatedil1@gmail.com<br/>
+Telegram: @nastyuncle<br/>
+LinkedIn: [linkedin.com/in/edil-kuat](https://www.linkedin.com/in/edil-kuat-3b4417332/)
+</p>
