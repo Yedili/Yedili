@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Tech Icons](https://skillicons.dev/icons?i=python,react,playwright,typescript,javascript)
 
 <!--
 **Yedili/Yedili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
