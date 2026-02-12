@@ -33,5 +33,5 @@ Architecture focused on modular services and clean API design.
 ## Contact
 
 Email: kuatedil1@gmail.com
-Telegram:@nastyuncle  
+Telegram: @nastyuncle  
 LinkedIn: https://www.linkedin.com/in/edil-kuat-3b4417332/
