@@ -21,10 +21,6 @@ Full-stack finance management system
 Flask API · React frontend · PostgreSQL · Telegram Bot  
 Architecture focused on modular services and clean API design.
 
-### Face Recognition System
-Real-time face detection & recognition pipeline  
-OpenCV · DeepFace · Video stream processing.
-
 ---
 
 ## GitHub Stats
@@ -36,6 +32,6 @@ OpenCV · DeepFace · Video stream processing.
 
 ## Contact
 
-Email: your.email@example.com  
-Telegram: @yourhandle  
-LinkedIn: linkedin.com/in/yourprofile
+Email: kuatedil1@gmail.com
+Telegram:@nastyuncle  
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/edil-kuat-3b4417332/)
