@@ -30,8 +30,9 @@ Focused on clean service boundaries and maintainable architecture.
 ## Activity
 
 <p>
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yedili&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yedili&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=aaaaaa" />
 </p>
+
 
 ---
 
